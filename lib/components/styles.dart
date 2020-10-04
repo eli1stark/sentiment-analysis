@@ -9,3 +9,5 @@ LinearGradient customGradient = LinearGradient(
     Color(0xFF8E2DE2),
   ],
 );
+
+Color customGreen = Color(0xFF56AB2F);

@@ -21,7 +21,7 @@
 #.vscode/
 
 # Project
-**/lib/**/key.dart
+**/api/key.dart
 
 # Flutter/Dart/Pub related
 **/doc/api/
