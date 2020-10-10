@@ -2,4 +2,4 @@
 
 Flutter with Sentiment Analysis
 
-![](assets//gif.gif)
+![](demo/demo.gif)
